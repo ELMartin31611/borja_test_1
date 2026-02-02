@@ -1,11 +1,4 @@
 import { Paper, Typography } from "@mui/material";
-import React from "react";
-import Container from "react-bootstrap/Container";
-import Carousel from "react-bootstrap/Carousel";
-
-
-
-
 
 export default function HomePage() {
   return (
